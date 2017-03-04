@@ -1,4 +1,4 @@
-Arma 3 Exile mod stats version 6, MODDED BY NRZ.
+Arma 3 Exile mod stats version 6 by COFTSOCK, MODDED BY NRZ7 and Logancio from standarol.com
 
 ---------------------------------------------------------------------------------------------------------------------
 This project is a fork from CoftSock ESP Exile Stats.
