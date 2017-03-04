@@ -12,37 +12,37 @@ include('count.php');
   <ul>
     <li class="dropdown">
       <input type="checkbox" />
-      <a href="#" data-toggle="dropdown">Servidor</a>
+      <a href="#" data-toggle="dropdown">Server</a>
       <ul class="dropdown-menu">
         <!--<li><a href="main/index.php">Ránking</a></li>-->
 		<li><a href="sum/index.php">General</a></li>	
 		<!-- DEATHS AND DEATHLOG NEEDS A CUSTOM MODIFICATION OVER EXILE FILES NOT SHARED FOR NOW</a></li>-->
 		<!--<li><a href="deathLog/index.php">Log de Muertes</a></li>
 		<li><a href="deaths/index.php">Estadísticas de Muertes</a></li>-->
-		<li><a href="territories/index.php">Territorios</a></li>
+		<li><a href="territories/index.php">Territories</a></li>
       </ul>
     </li>
 	<li class="dropdown">
       <input type="checkbox" />
-      <a href="#" data-toggle="dropdown">Ránking</a>
+      <a href="#" data-toggle="dropdown">Ranking</a>
       <ul class="dropdown-menu">
-        <li><a href="main/index.php">Respeto</a></li>
-		<li><a href="ladderKills/index.php">Muertes</a></li>
+        <li><a href="main/index.php">Respect</a></li>
+		<li><a href="ladderKills/index.php">Kills</a></li>
 		<!--<li><a href="ladderRatio/index.php">Ratio de muertes</a></li>-->
         <!--<li><a href="ladderMoney/index.php">Dinero</a></li>-->	
       </ul>
     </li>
     <li class="dropdown">
       <input type="checkbox" />
-      <a href="#" data-toggle="dropdown">Buscar Jugadores</a>
+      <a href="#" data-toggle="dropdown">Search Players</a>
       <ul class="dropdown-menu">
-	  	<li><a href="nameall/index.php">Buscar jugador por Nombre</a></li>
-		<li><a href="uidall/index.php">Buscar jugador por UID</a></li>
+	  	<li><a href="nameall/index.php">By Name</a></li>
+		<li><a href="uidall/index.php">By UID</a></li>
       </ul>
     </li>
 	<li class="dropdown">
       <input type="checkbox" />
-      <a href="#" data-toggle="dropdown">Diagramas</a>
+      <a href="#" data-toggle="dropdown">Diagrams</a>
       <ul class="dropdown-menu">
 	  	<li><a href="pie8/index.php">[PIE] Vehicles</a></li>
 		<li><a href="pie7/index.php">[PIE] Weapon</a></li>
