@@ -1,6 +1,7 @@
 Arma 3 Exile mod stats version 6 by COFTSOCK, MODDED BY NRZ7 and Logancio from standarol.com
 
----------------------------------------------------------------------------------------------------------------------
+```
+
 This project is a fork from CoftSock ESP Exile Stats.
 
 http://www.exilemod.com/topic/1538-esp-exile-stats-page-system-60updated/
@@ -8,7 +9,8 @@ http://www.exilemod.com/topic/1538-esp-exile-stats-page-system-60updated/
 Please, follow the original liscence and contact with the Main developer for any doubt about this.
 
 I only made a few modifications to make Exile 1.0.2 Comatible and little look modifications with Coftsock permission.
----------------------------------------------------------------------------------------------------------------------
+
+```
 
 Id like to thank those who have helped me through bug finding, themes, improvements, suggestions and donations.
 
